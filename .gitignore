@@ -31,3 +31,9 @@ SQLiteCpp_example1
 SQLiteCpp_tests
 
 !FindSQLiteCpp.cmake
+
+cmake_install.cmake
+
+cmake/SQLiteCppConfig.cmake
+
+cmake/SQLiteCppConfigVersion.cmake
